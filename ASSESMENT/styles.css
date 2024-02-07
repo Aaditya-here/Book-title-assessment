@@ -1,0 +1,29 @@
+.container{
+    background-color: rgb(174, 179, 227);
+    text-align: center;
+}
+
+.cardrow1{
+    display: flex;
+     width: auto;
+     align-items: stretch;
+     justify-content: space-around;
+
+}
+.cardrow2{
+    display: flex;
+     width: auto;
+     align-items: stretch;
+     justify-content: space-around;
+
+}
+.cardrow3{
+    display: flex;
+     width: auto;
+     align-items: stretch;
+     justify-content: space-around;
+
+}
+.class{
+    text-align: center;
+}
